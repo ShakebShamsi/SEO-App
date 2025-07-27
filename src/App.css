@@ -1,0 +1,12 @@
+h1{
+    font-family: Arial, sans-serif;
+    color: white;    
+    text-align: center;
+    font-size: 60px;
+}
+div{
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: #333;
+}

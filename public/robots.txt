@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /static/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://www.yourdomain.com/sitemap.xml
