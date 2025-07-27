@@ -3,4 +3,4 @@ Disallow: /static/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://www.yourdomain.com/sitemap.xml
+Sitemap: https://seo-app-n2ss.onrender.com
